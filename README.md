@@ -1,1 +1,1 @@
-# Histogram_matching
+# Digital Image Processing Projects
